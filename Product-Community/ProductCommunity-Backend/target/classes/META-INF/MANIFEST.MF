@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ProductCommunity-Backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mdsiddiqui
+Implementation-Vendor-Id: com.nagarro
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://spring.io/projects/spring-boot/ProductComm
+ unity-Backend
+Created-By: Maven Integration for Eclipse
+

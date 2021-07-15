@@ -1,0 +1,191 @@
+body {
+    background-image: url("../images/background.jpg");
+      color: white;
+   
+  }
+  .intro{
+    color: white;
+    font-family: Arial;
+    text-align: right;
+    margin-right: 5%;
+    margin-top: 15%;
+  }
+
+  .form-container{
+    background-color: #343a40!important;
+    width: 500px;
+    clear: both;
+    color: white;
+    margin: 0 auto;
+    margin-top: 5%;
+    padding: .5rem 1rem;
+  }
+
+  .form-container input {
+    width: 100%;
+    clear: both;
+  }
+
+  input[type = submit] {
+     width: 20%;
+    
+  }
+  h3{
+    text-align: center;
+  }
+
+  .error-msg{
+    text-align: center;
+    color: red;
+  }
+
+  .posterImg{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .user{
+    text-align: right;
+    margin-right: 1%;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    background-color: #343a40!important;
+    padding: 15px 1rem;
+  }
+  li {
+    display: inline;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #343a40!important;
+    padding: 50px 100px;
+  }
+  .centered input[type=submit]{
+    width: 25%;
+  }
+  .new-topic{
+    position: absolute;
+    top: 70%;
+    left: 95%;
+    background-color: #343a40!important;
+    padding: 2px;
+    
+  }
+
+  a{
+    color:white;
+    margin-left: 20px;
+  }
+  .logout{
+    text-align: left;
+  }
+  textarea{
+    width: 100%;
+  }
+  select{
+    width: 100%;
+  }
+  .profileImg{
+    width: 30px;
+  }
+
+  .card{
+    background-color: white;
+    border: 15px solid #343a40;
+    padding: 50px;
+    margin: 20px;
+    color: black;
+    margin-left: 20%;
+
+  
+  }
+
+  .card-comment{
+    background-color: white;
+    border: 15px solid #343a40;
+    padding: 10
+    px;
+    margin: 20px;
+    color: black;
+    margin-left: 20%;
+
+  
+  }
+
+  .card-profile{
+    background-color: white;
+    border: 15px solid #343a40;
+    padding: 50px;
+    margin: 20px;
+    color: black;
+    width: 40%;
+    margin-left: 30%;
+    text-align: center;
+  }
+
+  .posted-by{
+    text-align: right;
+  }
+
+  .highlight {
+    background-color: yellow;
+  }
+  
+
+  .comment{
+    float: right;
+    width: 10%;
+  }
+  .content{
+    text-align: center;
+  }
+
+  .model{
+    background-color: white;
+    border: 15px solid #343a40;
+    padding: 50px;
+    margin: 20px;
+    color: black;
+
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #343a40;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 1px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .profileposter{
+    width: 200px;
+  }
+
+  .labels{
+    margin-left: 20px;
+  }
+
+  .commentForm input[type="text"]{
+    width: 50%;
+    margin-left: 30%;
+  }
